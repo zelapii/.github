@@ -2,7 +2,7 @@
 
 ## About ZelApi
 
-Welcome to **ZelApi** — a developer-focused API platform designed to provide simple, reliable, and easy-to-integrate APIs for modern applications.
+Welcome to **ZelApi** — a developer focused API platform designed to provide simple, reliable, and easy to integrate APIs for modern applications.
 
 Whether you're building a website, application, automation, or other developer projects, ZelApi provides a collection of APIs and developer tools to help you build faster.
 
